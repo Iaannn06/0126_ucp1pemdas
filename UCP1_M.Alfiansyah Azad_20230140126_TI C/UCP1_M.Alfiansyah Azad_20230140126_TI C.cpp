@@ -33,7 +33,7 @@ int main()
 		cout << "Apakah anda ingin mengulang program? y/n ";
 		cin >> y;
 		if (y == 'y' || y == 'Y');
-
+		return 0;
 	
 			
 	
@@ -44,6 +44,6 @@ int main()
 //      b. void adalah variable yang berguna untuk memasukkan dan menampilkan data pada program. contohnya yaitu void input dan output
 //      c. string adalah variable yang berguna untuk menuliskan  data yang panjangnya tidak pasti atau tidak dapat ditentukan, seperti nama.
 //   2. Conditional statement adalah sebuah program ketika terdapat lebih dari satu kondisi yang kemungkinan terjadi pada sebuah program.contoh implementasinya adalah ketika diadakan sebuah tes masuk ke sebuah perusahaan. Peserta dinyatakan lulus apabila memiliki nilai rata-rata matematika dan ekonomi kurang dari 75 atau nilai ekonominya lebih dari 80.
-//   3. Struct adalah sebuah program yang digunakan jika ingin menambahkan detail tambahan,seperti pada alamat.contohnya adalah pada kolom pengisian alamat seseorang diminta untuk menjelaskan lebih detail alamatnya.
+//   3. Struct adalah sebuah program yang digunakan jika ingin menambahkan detail tambahan,seperti pada alamat.contohnya adalah pada kolom pengisian alamat seseorang menggunakan
 //   4. Prosedur atau fungsi adalah sebuah program yang digunakan untuk membuat program mengerjakan suatu fungsi atau bekerja sesuai dengan sebuah prosedur. contoh implementasinya adalah sebuah kasir yang menghitung total harga dari seluruh barang yang dibeli pelanggan.
 //   5. Looping adalah sebuah program yang akan berjalan dan baru berhenti jika sudah memenuhi syarat dan ketentuan tertentu. contohnya adalah  seseorang ingin menampilkan tulisan "YA" sebanyak 10 kali pada sebuah program.
